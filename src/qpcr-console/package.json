@@ -9,7 +9,7 @@
   "@testing-library/react": "^9.3.2",
   "@testing-library/user-event": "^7.1.2",
   "bootstrap": "^4.4.1",
-  "chart.js": "^2.9.3",
+  "chart.js": "^2.9.4",
   "enzyme": "^3.11.0",
   "enzyme-adapter-react-16": "^1.15.2",
   "jest-enzyme": "^7.1.2",
